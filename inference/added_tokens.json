@@ -1,0 +1,9 @@
+{
+  "<box_begin>": 32000,
+  "<boxes>": 32003,
+  "<temp>": 32002,
+  "<time_begin>": 32001,
+  "<track_begin>": 32004,
+  "<track_box>": 32006,
+  "<tracking>": 32005
+}
