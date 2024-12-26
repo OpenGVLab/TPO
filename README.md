@@ -10,6 +10,7 @@
 | MLLM | Link | 
 | ---  | ---  |
 | VideoChat-TPO| [huggingface](https://huggingface.co/OpenGVLab/VideoChat-TPO)|
+| LlaVA-OV-TPO | TBD |
 
 
 # 🏃 Installation
