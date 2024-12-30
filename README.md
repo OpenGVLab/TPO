@@ -10,7 +10,7 @@ Task Preference Optimization (TPO) is a new method designed to enhance the perfo
 <p align="center">
     <img src="medium/image.png" width="400" alt="TPO uses differentiable task preferences from dense visual supervisions via task-specific heads to enhance MLLMs in
     fine-grained understanding."/>
-    <p align="center">Figure 1: TPO uses differentiable task preferences from dense visual supervisions via task-specific heads to enhance MLLMs in fine-grained understanding.</p>
+    <p>Figure 1: TPO uses differentiable task preferences from dense visual supervisions via task-specific heads to enhance MLLMs in fine-grained understanding.</p>
 </p>
 
 - Enhanced Multimodal Performance: Achieves an average **14.6%** improvement in multimodal performance compared to baseline models on various image and video tasks, and demonstrates scalability across different MLLM architectures such as [VideoChat](https://github.com/OpenGVLab/TPO?tab=readme-ov-file#-model-zoo) and LLaVA.
