@@ -45,10 +45,10 @@ python app.py
 
 ## 🤖 Model Zoo
 
-| MLLM | Link | 
-| ---  | ---  |
-| VideoChat-TPO| [huggingface](https://huggingface.co/OpenGVLab/VideoChat-TPO)|
-| LlaVA-OV-TPO | TBD |
+| MLLM | Link |  MVBench |
+| ---  | ---  | --- |
+| VideoChat-TPO| [huggingface](https://huggingface.co/OpenGVLab/VideoChat-TPO)| 66.8 |
+| LlaVA-OV-TPO | TBD | 64.8 |
 
 ## Citation
 
