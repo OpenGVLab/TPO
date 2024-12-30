@@ -1,6 +1,6 @@
 # 👫 TPO
 
-<a src="https://img.shields.io/badge/cs.CV-2305.06355-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2305.06355"> <img src="https://img.shields.io/badge/cs.CV-2305.06355-b31b1b?logo=arxiv&logoColor=red">
+<a src="https://img.shields.io/badge/cs.CV-2412.19326-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2412.19326"> <img src="https://img.shields.io/badge/cs.CV-2412.19326-b31b1b?logo=arxiv&logoColor=red">
 </a> | <a src="https://img.shields.io/twitter/follow/opengvlab?style=social" href="https://twitter.com/opengvlab">
     <img src="https://img.shields.io/twitter/follow/opengvlab?style=social"> </a>
 </a> | [![Hugging Face Model](https://img.shields.io/badge/Model-VideoChat--TPO-yellow?logo=Huggingface)](https://huggingface.co/OpenGVLab/VideoChat-TPO)
