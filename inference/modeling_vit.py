@@ -319,7 +319,7 @@ class PretrainVisionTransformerEncoder(nn.Module):
         self.checkpoint_num = checkpoint_num
         logger.info(f"Use checkpoint: {use_checkpoint}")
         logger.info(f"Checkpoint number: {checkpoint_num}")
-        logger.info(f"Real runing depth: {self.depth}")
+        logger.info(f"Real running depth: {self.depth}")
 
         # TODO: Add the cls token
         if use_learnable_pos_emb:
