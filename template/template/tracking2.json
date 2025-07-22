@@ -1,0 +1,8 @@
+[ "Please give the motion path of <obj> in the video over time.",
+"Show the tracking trajectory of <obj>'s movement through the scene in the video.",
+"Please generate a motion path of <obj>'s movement in the video, highlighting its tracking trajectory.",
+"Show the tracking trajectory of <obj>.",
+"Generate <obj>'s tracking trajectory.",
+"Visualize the tracking trajectory of <obj> in the video.",
+"Please generate a visual representation of <obj>'s movement in the video, highlighting its tracking trajectory."
+]

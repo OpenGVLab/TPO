@@ -1,0 +1,10 @@
+["Track the object in the video using a box with initial coordinates <track_box>.",
+"Use a bounding box with coordinates <track_box> to follow the movement of the moving object in the visual input.",
+"Given an initial bounding box with coordinates <track_box>, track the motion of the target object in the sequence of frames.",
+"Starting from the box defined by the coordinates <track_box>, monitor the movement of the object in the video.",
+"Utilizing the initial box specified by the coordinates <track_box>, continuously track and update the location of the object in the video stream.",
+"Given a video with an object of interest enclosed in a bounding box with coordinates <track_box>, generate a sequence of bounding boxes that track the object's movement.",
+"With an initial box defined by <track_box>, trace the object's trajectory by generating a sequence of bounding boxes that follow the object's movement in the visual input.",
+"Apply an object tracking algorithm to a video, starting with a bounding box defined by <track_box>.",
+"Given a video and an initial bounding box defined by <track_box>, track the movement of the object within the video.",
+"Starting from an initial box defined by <track_box>, track the movement of the object in the visual input."]

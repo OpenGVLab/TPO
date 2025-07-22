@@ -1,0 +1,5 @@
+_target_: src.tokenizer.multimodal_llama_tokenizer.MultimodalLlamaTokenizer.from_pretrained
+pretrained_model_name_or_path: BAAI/Emu2
+local_files_only: True
+n_query: 96
+v_query: 96

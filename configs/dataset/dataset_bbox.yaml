@@ -1,0 +1,3 @@
+_target_: src.dataset.create.create_dataset
+_recursive_: False
+dataset_type: 'it_train_bbox'
